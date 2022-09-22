@@ -109,7 +109,7 @@
 <main class="container">
   <div class="p-4 p-md-5 mb-4 rounded text-bg-dark">
     <div class="col-md-6 px-0">
-      <h1 class="display-0 fst-italic">My IT Knowledge - Gone in the wind?</h1>
+      <h1 class="display-4 fst-italic">My IT Knowledge - Gone in the wind?</h1>
       <p class="lead my-3">How much of my knowledge is still there or ever really was, after the birth of my son and taking a long parental leave.</p>
       <p class="lead mb-0"><a href="#" class="text-white fw-bold">Continue reading</a></p>
     </div>
@@ -124,9 +124,12 @@
           <div class="mb-1 text-muted">Sep 19</div>
           <p class="card-text mb-auto">As a lateral entrant to get a job in IT was challenging enough. How will my baby brain cope with the storm of information for reentering the job?</p>
           <a href="#" class="stretched-link">Continue reading</a>
+          
+          <img src="../img/Jari_Dark_portal_with_fog_on_mossy_hill_c1a2951d-bfa5-4a27-b8f9-7a63babaef76.png" class="rounded float-right" alt="Responsive Image">
+          
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img src="../img/Jari_Dark_portal_with_fog_on_mossy_hill_c1a2951d-bfa5-4a27-b8f9-7a63babaef76.png" class="rounded float-right" alt="Responsive Image">
+          
           <!-- svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg-->
           
         </div>
