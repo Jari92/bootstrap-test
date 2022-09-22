@@ -97,13 +97,13 @@
     </div>
   </header>
 
-  <div class="nav-scroller py-1 mb-2">
+  <!--div class="nav-scroller py-1 mb-2">
     <nav class="nav d-flex justify-content-between">
       <a class="p-2 link-secondary" href="#">World</a>
       <a class="p-2 link-secondary" href="#">U.S.</a>
       <a class="p-2 link-secondary" href="#">Technology</a>
     </nav>
-  </div>
+  </div -->
 </div>
 
 <main class="container">
@@ -120,7 +120,7 @@
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
           <strong class="d-inline-block mb-2 text-primary">World</strong>
-          <h3 class="mb-4">Coming back into the IT world</h3>
+          <h3 class="mb-0">Coming back into the IT world</h3>
           <div class="mb-1 text-muted">Sep 19</div>
           <p class="card-text mb-auto">As a lateral entrant to get a job in IT was challenging enough. How will my baby brain cope with the storm of information for reentering the job?</p>
           <a href="#" class="stretched-link">Continue reading</a>
