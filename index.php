@@ -137,11 +137,11 @@
           <strong class="d-inline-block mb-2 text-success">Design</strong>
           <h3 class="mb-0">Halloween is coming</h3>
           <div class="mb-1 text-muted">Sep 22</div>
-          <p class="mb-auto">When autumn is rolling in I always feel like Halloween is right around.</p>
+          <p class="mb-auto">When autumn is rolling in I always feel like Halloween is right around. Let's make some Pumpkin Soup!</p>
           <a href="#" class="stretched-link">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img src="../img/Jari_halloween_pumpkin_in_garden_at_foggy_night_colorful_lights_3a1181e1-ac53-415c-846a-fee53a57ad1e.png" class="rounded float-right" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail"></img>
+          <img src="../img/halloween_pumpkin.png" class="rounded float-right" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail"></img>
         </div>
       </div>
     </div>
