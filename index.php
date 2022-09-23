@@ -86,7 +86,7 @@
         <a class="link-secondary" href="#">Subscribe</a>
       </div>
       <div class="col-4 text-center">
-        <a class="blog-header-logo text-dark" href="#">Jari's Blog</a>
+        <a class="blog-header-logo" href="#">Jari's Blog</a>
       </div>
       <div class="col-4 d-flex justify-content-end align-items-center">
         <a class="link-secondary" href="#" aria-label="Search">
