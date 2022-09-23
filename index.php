@@ -106,7 +106,7 @@
   </div -->
 </div>
 
-<main class="container">
+<main class="container bg-secondary bg-gradient">
   <div class="p-4 p-md-5 mb-4 rounded text-bg-dark">
     <div class="col-md-6 px-0">
       <h1 class="display-4 fst-italic">My IT Knowledge - Gone in the wind?</h1>
@@ -115,7 +115,7 @@
     </div>
   </div>
 
-  <div class="row mb-2 bg-secondary bg-gradient">
+  <div class="row mb-2">
     <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
