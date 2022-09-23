@@ -86,7 +86,7 @@
         <a class="link-success" href="#">Subscribe</a>
       </div>
       <div class="col-4 text-center">
-        <a class="blog-header-logo text-dark" href="#">Jari's Blog</a>
+        <a class="blog-header-logo text-primary" href="#">Jari's Blog</a>
       </div>
       <div class="col-4 d-flex justify-content-end align-items-center">
         <a class="link-success" href="#" aria-label="Search">
@@ -115,7 +115,7 @@
     </div>
   </div>
 
-  <div class="row mb-2">
+  <div class="row mb-2 bg-secondary bg-gradient">
     <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
