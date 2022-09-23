@@ -127,7 +127,7 @@
           
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img src="../img/Jari_Dark_portal_with_fog_on_mossy_hill_c1a2951d-bfa5-4a27-b8f9-7a63babaef76.png" class="rounded float-right" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"></img>        
+          <img src="../img/Jari_Dark_portal_with_fog_on_mossy_hill_c1a2951d-bfa5-4a27-b8f9-7a63babaef76.png" class="rounded float-right" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail"></img>        
         </div>
       </div>
     </div>
@@ -141,7 +141,7 @@
           <a href="#" class="stretched-link">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img src="../img/Jari_halloween_pumpkin_in_garden_at_foggy_night_colorful_lights_3a1181e1-ac53-415c-846a-fee53a57ad1e.png" class="rounded float-right" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
+          <img src="../img/Jari_halloween_pumpkin_in_garden_at_foggy_night_colorful_lights_3a1181e1-ac53-415c-846a-fee53a57ad1e.png" class="rounded float-right" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail"></img>
         </div>
       </div>
     </div>
