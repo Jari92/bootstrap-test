@@ -80,13 +80,13 @@
   <body>
     
 <div class="container">
-  <header class="blog-header bg-secondary lh-1 py-3">
+  <header class="blog-header bg-primary lh-1 py-3">
     <div class="row flex-nowrap justify-content-between align-items-center">
       <div class="col-4 pt-1">
         <a class="link-success" href="#">Subscribe</a>
       </div>
       <div class="col-4 text-center">
-        <a class="blog-header-logo text-dark" href="#">Jari's Blog</a>
+        <a class="blog-header-logo text-white" href="#">Jari's Blog</a>
       </div>
       <div class="col-4 d-flex justify-content-end align-items-center">
         <a class="link-success" href="#" aria-label="Search">
@@ -106,7 +106,7 @@
   </div -->
 </div>
 
-<main class="container bg-secondary bg-gradient">
+<main class="container bg-primary bg-gradient">
   <div class="p-4 p-md-5 mb-4 rounded text-bg-dark">
     <div class="col-md-6 px-0">
       <h1 class="display-4 fst-italic text-light">My IT Knowledge - Gone in the wind?</h1>
