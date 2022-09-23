@@ -86,7 +86,7 @@
         <a class="link-success" href="#">Subscribe</a>
       </div>
       <div class="col-4 text-center">
-        <a class="blog-header-logo text-primary" href="#">Jari's Blog</a>
+        <a class="blog-header-logo text-dark" href="#">Jari's Blog</a>
       </div>
       <div class="col-4 d-flex justify-content-end align-items-center">
         <a class="link-success" href="#" aria-label="Search">
@@ -109,7 +109,7 @@
 <main class="container bg-secondary bg-gradient">
   <div class="p-4 p-md-5 mb-4 rounded text-bg-dark">
     <div class="col-md-6 px-0">
-      <h1 class="display-4 fst-italic">My IT Knowledge - Gone in the wind?</h1>
+      <h1 class="display-4 fst-italic text-light">My IT Knowledge - Gone in the wind?</h1>
       <p class="lead my-3">How much of my knowledge is still there or ever really was, after the birth of my son and taking a long parental leave.</p>
       <p class="lead mb-0"><a href="#" class="text-white fw-bold">Continue reading</a></p>
     </div>
@@ -119,11 +119,10 @@
     <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary">World</strong>
           <h3 class="mb-0">Coming back into the IT world</h3>
-          <div class="mb-1 text-muted">Sep 19</div>
+          <div class="mb-1 text-light">Sep 19</div>
           <p class="card-text mb-auto">As a lateral entrant to get a job in IT was challenging enough. How will my baby brain cope with the storm of information for reentering the job?</p>
-          <a href="#" class="stretched-link">Continue reading</a>
+          <a href="#" class="stretched-link link-light">Continue reading</a>
           
         </div>
         <div class="col-auto d-none d-lg-block">
@@ -134,11 +133,10 @@
     <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success">Design</strong>
           <h3 class="mb-0">Halloween is coming</h3>
-          <div class="mb-1 text-muted">Sep 22</div>
+          <div class="mb-1 text-light">Sep 22</div>
           <p class="mb-auto">When autumn is rolling in I always feel like Halloween is right around. Let's make some Pumpkin Soup!</p>
-          <a href="#" class="stretched-link">Continue reading</a>
+          <a href="#" class="stretched-link link-light">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
           <img src="../img/halloween_pumpkin.png" class="rounded float-right" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail"></img>
